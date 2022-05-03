@@ -1,4 +1,4 @@
- #credit to carolinedunn for github repository
+ # credit to carolinedunn for github repository
 
 from imutils import paths
 import face_recognition
